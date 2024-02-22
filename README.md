@@ -1,9 +1,9 @@
 
 # Card Game
 
-A brief description of what this project does and who it's for
+Welcome to the Exploding Kittens Card Game! This is an online single-player card game inspired by the popular card game, Exploding Kittens. The game is web-based and built with [ReactJs ,Redux,Redis,Go].
 
-
+The game consists of four different types of cards: Cat 😼, Defuse 🙅‍♂️, Shuffle 🔀, and Exploding Kitten 💣. The objective of the game is to draw all the cards from the deck without drawing an Exploding Kitten card.
 
 
 # Backend 
